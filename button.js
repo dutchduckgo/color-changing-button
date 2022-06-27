@@ -1,4 +1,4 @@
-let colors = ['blue', 'yellow', 'black', 'red', 'orange'];
+let colors = ['aquamarine', 'chartreuse', 'darkgoldenrod', 'mintcream', 'thistle'];
 
 let button = document.getElementById('button');
 
